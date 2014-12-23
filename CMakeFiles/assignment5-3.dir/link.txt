@@ -1,1 +1,0 @@
-/usr/bin/c++   -std=c++11 -Wall  -g    CMakeFiles/assignment5-3.dir/Visitor.cpp.o CMakeFiles/assignment5-3.dir/Object.cpp.o CMakeFiles/assignment5-3.dir/driverUgrad.cpp.o CMakeFiles/assignment5-3.dir/Universe.cpp.o CMakeFiles/assignment5-3.dir/AggregateStrategy.cpp.o  -o assignment5-3 -rdynamic 
